@@ -5,12 +5,12 @@ def parrot
   
   puts "Squawk!"
   return "Squawk!"
-  end
+  
   
   phrase = "Pretty bird!"
   puts "Pretty bird!"
   return "Pretty bird!"
-  end
+  
   
   
 end
