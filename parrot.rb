@@ -6,6 +6,6 @@ def parrot
   end 
 
   phrase = "Squawk!"
-  puts phrase
+  return phrase
   end
 end
