@@ -5,8 +5,9 @@ def parrot
   
   puts "Squawk!"
   return "Squawk!"
-  parrot
   
+  parrot(phrase)
+  phrase = "Pretty bird!"
   puts "Pretty bird!"
   
   
