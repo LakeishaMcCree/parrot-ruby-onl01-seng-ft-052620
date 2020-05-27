@@ -8,6 +8,8 @@ def parrot
   end
   
   parrot
+  puts "Pretty bird!"
+  return
   
   end
   
